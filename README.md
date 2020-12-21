@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Tailwind Capacitor Starter
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+- Tailwind CSS Docs: https://tailwindcss.com/docs
+- Capacitor Docs: https://capacitorjs.com/docs
 
 ## Available Scripts
 

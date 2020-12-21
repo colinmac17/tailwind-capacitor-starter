@@ -23,3 +23,13 @@ yarn-debug.log*
 yarn-error.log*
 
 .idea/
+
+.eslintcache
+
+
+#ios
+ios/
+
+#android
+android/
+.gradle/
